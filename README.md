@@ -1,8 +1,8 @@
 # github-notes
-##Git
+## Git
 
-##Github
+## Github
 
-##Repo
+## Repo
 
-##Commit
+## Commit
